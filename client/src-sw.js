@@ -52,5 +52,5 @@ registerRoute(
 
 // Register the offlineFallback strategy for handling offline navigation
 offlineFallback({
-  pageFallback: '/index.html', 
+  pageFallback: './index.html', 
 });
