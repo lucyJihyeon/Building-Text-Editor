@@ -8,7 +8,8 @@
 - [Features](#features)
 - [Technologies-Used](#technologies-used)
 - [Contribution](#contribution)
-- [dmeonstration](#demo-screenshot)
+- [demeonstration](#demonstration)
+- [Link](#link)
 
 ## Installation 
 To install necessary dependencies, run following command:
@@ -128,7 +129,11 @@ npm start
 ![indexDB](./img/indexDB.gif)
 
 
-!
+## Link
+* following is a link to the deployed web application 
+[PWAText](https://pwatext.onrender.com/)
+
+
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to reach out:
