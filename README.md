@@ -8,6 +8,7 @@
 - [Features](#features)
 - [Technologies-Used](#technologies-used)
 - [Contribution](#contribution)
+- [dmeonstration](#demo-screenshot)
 
 ## Installation 
 To install necessary dependencies, run following command:
@@ -110,6 +111,24 @@ npm start
 5. create a new pull request
 
 
+## Demonstration
+* following is a demo of npm run build
+![npm-run](./img/npm%20run%20-pwaText.gif)
+
+* following is a demo of installation
+![installation](./img/installation.gif)
+
+* following is a schreenrecording of manifest 
+![manifest](./img/manifest.gif)
+
+* following is a schreenshot of service-worker
+![service-worker](./img/service-worker.png)
+
+*following is a schreenrecording of indexDB
+![indexDB](./img/indexDB.gif)
+
+
+!
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to reach out:
